@@ -1,0 +1,7 @@
+#-*- encoding: gb18030 -*-
+'''
+Created on 2019Äê12ÔÂ30ÈÕ
+
+@author: sanoi
+'''
+print ("sad")
